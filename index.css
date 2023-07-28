@@ -6,6 +6,9 @@ body {
 .container {
     display: flex;
     justify-content: space-around;
+    width: 45%;
+    position: relative;
+    left: 26%;
 }
 h3 { font-family: Verdana, Geneva, sans-serif; font-size: 40px
     ; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; color: white;}
